@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "c537a6df-d8b4-dcc4-e0b8-3a81b80a955d",
+    "Name": "DeleteCoupePostgreSQL",
+    "DBEngineType": 2,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1756305330000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
